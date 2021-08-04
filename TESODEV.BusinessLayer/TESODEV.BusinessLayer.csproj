@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TESODEV.DataTransferObject\TESODEV.DataTransferObject.csproj" />
+    <ProjectReference Include="..\TESODEV.UnitOfWork\TESODEV.UnitOfWork.csproj" />
+  </ItemGroup>
+
+</Project>

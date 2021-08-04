@@ -1,0 +1,14 @@
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\bin\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.deps.json
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\bin\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\bin\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\bin\Debug\netcoreapp3.1\TESODEV.Entity.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\bin\Debug\netcoreapp3.1\TESODEV.Repository.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\bin\Debug\netcoreapp3.1\TESODEV.Entity.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\bin\Debug\netcoreapp3.1\TESODEV.Repository.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\obj\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\obj\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\obj\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.AssemblyInfo.cs
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\obj\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\obj\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.csproj.CopyComplete
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\obj\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataAccessLayer\obj\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.pdb

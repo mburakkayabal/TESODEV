@@ -1,0 +1,16 @@
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.UnitOfWork.deps.json
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.UnitOfWork.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.UnitOfWork.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.Entity.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.Repository.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.DataAccessLayer.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.Entity.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\bin\Debug\netcoreapp3.1\TESODEV.Repository.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\obj\Debug\netcoreapp3.1\TESODEV.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\obj\Debug\netcoreapp3.1\TESODEV.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\obj\Debug\netcoreapp3.1\TESODEV.UnitOfWork.AssemblyInfo.cs
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\obj\Debug\netcoreapp3.1\TESODEV.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\obj\Debug\netcoreapp3.1\TESODEV.UnitOfWork.csproj.CopyComplete
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\obj\Debug\netcoreapp3.1\TESODEV.UnitOfWork.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.UnitOfWork\obj\Debug\netcoreapp3.1\TESODEV.UnitOfWork.pdb

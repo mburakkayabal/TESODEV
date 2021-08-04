@@ -1,0 +1,8 @@
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\bin\Debug\netcoreapp3.1\TESODEV.Repository.deps.json
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\bin\Debug\netcoreapp3.1\TESODEV.Repository.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\bin\Debug\netcoreapp3.1\TESODEV.Repository.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\obj\Debug\netcoreapp3.1\TESODEV.Repository.AssemblyInfoInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\obj\Debug\netcoreapp3.1\TESODEV.Repository.AssemblyInfo.cs
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\obj\Debug\netcoreapp3.1\TESODEV.Repository.csproj.CoreCompileInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\obj\Debug\netcoreapp3.1\TESODEV.Repository.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.Repository\obj\Debug\netcoreapp3.1\TESODEV.Repository.pdb

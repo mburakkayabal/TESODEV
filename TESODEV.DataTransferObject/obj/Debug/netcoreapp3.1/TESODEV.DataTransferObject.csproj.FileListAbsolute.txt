@@ -1,0 +1,8 @@
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\bin\Debug\netcoreapp3.1\TESODEV.DataTransferObject.deps.json
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\bin\Debug\netcoreapp3.1\TESODEV.DataTransferObject.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\bin\Debug\netcoreapp3.1\TESODEV.DataTransferObject.pdb
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\obj\Debug\netcoreapp3.1\TESODEV.DataTransferObject.AssemblyInfoInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\obj\Debug\netcoreapp3.1\TESODEV.DataTransferObject.AssemblyInfo.cs
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\obj\Debug\netcoreapp3.1\TESODEV.DataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\obj\Debug\netcoreapp3.1\TESODEV.DataTransferObject.dll
+C:\Users\M.Burak Kayabal\source\repos\TESODEV\TESODEV.DataTransferObject\obj\Debug\netcoreapp3.1\TESODEV.DataTransferObject.pdb
